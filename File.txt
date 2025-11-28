@@ -1,0 +1,4 @@
+Welcome!
+This is a sample test file
+It is a plain text file
+There is now password
