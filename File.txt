@@ -1,4 +1,4 @@
 Welcome!
-This is a sample test file
-It is a plain text file
-There is now password
+This is a merge conflict lab session. This is a sample test file
+It is a easy as ABC
+It is a plain text file. There is now password
